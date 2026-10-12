@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hey there! 👋 I'm Vaibhav
 
-<!--
-**Vaibhav-sri09/Vaibhav-sri09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student | 💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm learning programming, problem-solving, and web development by building projects and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Projects
+
+* **[EventFlow-API](https://github.com/Vaibhav-sri09/EventFlow-API)** — An event registration API featuring authentication, role-based access control, and concurrency safety.
+* **[SkillSwap](https://github.com/Vaibhav-sri09/SkillSwap)** — A student-focused platform for sharing skills and connecting with other learners.
+
+### 💻 Technologies I'm Learning
+
+* C++ and Data Structures & Algorithms
+* HTML and CSS
+* JavaScript
+* Python and Flask
+* Git and GitHub
+
+### 🎯 Current Goals
+
+* Strengthen my problem-solving skills.
+* Build practical software projects.
+* Learn modern web development.
+* Improve through collaborative projects.
+
+### 📫 Connect with Me
+
+* GitHub: [@Vaibhav-sri09](https://github.com/Vaibhav-sri09)
+
+---
+
+*Learning by building, improving one step at a time.* 🚀
