@@ -1,34 +1,33 @@
-# Hey there! 👋 I'm Vaibhav
+# Hey, I'm Vaibhav 👋
 
-🎓 First-Year IT Student at VIT Vellore | 💻 Aspiring Software Developer
+🎓 First-Year IT Student at VIT Vellore | 💻 Developer & Problem Solver
 
-I'm a student developer exploring software development through hands-on projects, problem-solving, and continuous learning. I enjoy turning ideas into working applications and understanding how things work behind the scenes.
+I build things, break things, and figure out how to make them better. Interested in software engineering, problem-solving, and turning ideas into functional projects. Always experimenting, learning, and pushing beyond what I already know.
 
 ### 🚀 Featured Projects
 
-- **[EventFlow-API](https://github.com/Vaibhav-sri09/EventFlow-API)** — A Flask-based event registration API with authentication, role-based access control, and concurrency-safe registrations.
-- **[SkillSwap](https://github.com/Vaibhav-sri09/SkillSwap)** — A platform that helps students exchange skills, discover learning partners, and connect with fellow learners.
-- **[Autonomous Grid Explorer](https://github.com/Vaibhav-sri09/autonomous-grid-explorer)** — A Python simulation exploring autonomous navigation, BFS pathfinding, obstacle avoidance, and battery management.
-- **[Personal Portfolio](https://github.com/Vaibhav-sri09/Personal-Portfolio)** — A responsive personal website showcasing my projects, skills, and learning journey.
+- **[EventFlow-API](https://github.com/Vaibhav-sri09/EventFlow-API)**
+- **[SkillSwap](https://github.com/Vaibhav-sri09/SkillSwap)**
+- **[Autonomous Grid Explorer](https://github.com/Vaibhav-sri09/autonomous-grid-explorer)**
+- **[Website Change Detector](https://github.com/Vaibhav-sri09/)**
 
-### 💻 Technologies & Tools
+### 💻 Tech Stack
 
 - **Languages:** C++, Python, JavaScript
-- **Web Development:** HTML, CSS, Flask
-- **Core Concepts:** Data Structures & Algorithms, REST APIs, Authentication, SQL
+- **Web:** HTML, CSS
 - **Tools:** Git, GitHub, SQLite
 
-### 🎯 What I'm Working Towards
+### 🎯 Currently Focused On
 
-- Strengthening my problem-solving and DSA skills.
-- Building practical projects that solve real problems.
-- Learning modern web development technologies.
-- Improving my ability to explain technical ideas and collaborate with others.
+- Strengthening DSA and problem-solving.
+- Building projects that go beyond tutorials.
+- Exploring software engineering and new technologies.
+- Becoming better at writing clean, efficient code.
 
-### 📫 Connect With Me
+### 📫 Connect
 
 - **GitHub:** [@Vaibhav-sri09](https://github.com/Vaibhav-sri09)
-  
+
 ---
 
-*Learning by building, improving one step at a time.* 🚀
+*Build. Break. Learn. Repeat.*
